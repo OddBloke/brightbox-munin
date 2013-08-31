@@ -7,7 +7,7 @@ getting.  This simple munin plugin lets me see that.
 Installation Instructions
 -------------------------
 
-Do the following:
+Do the following::
 
     git clone https://github.com/OddBloke/brightbox-munin.git
     cd brightbox-munin
