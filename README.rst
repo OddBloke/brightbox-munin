@@ -13,3 +13,8 @@ Do the following:
     cd brightbox-munin
     sudo cp brightbox.sh /etc/munin/plugins/brightbox
     sudo /etc/init.d/munin-node restart
+
+Example Output
+--------------
+
+.. image:: brightbox-day.png
