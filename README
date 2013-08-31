@@ -1,0 +1,5 @@
+munin BrightBox plugin
+======================
+
+I own a BrightBox router, and wanted to know what connection speeds I was
+getting.  This simple munin plugin lets me see that.
