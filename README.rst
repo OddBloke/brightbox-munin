@@ -17,4 +17,14 @@ Do the following::
 Example Output
 --------------
 
+Some example munin graphs (each taken from different times).
+
+Day
+~~~
+
 .. image:: brightbox-day.png
+
+Week
+~~~~
+
+.. image:: brightbox-week.png
